@@ -1,3 +1,5 @@
+![AsyncAndroid](https://pbs.twimg.com/profile_banners/1242270979058880512/1587496147/1500x500)
+
 # What Is AsyncAndroid
 
 AsyncAndroid is a community project to publish developer-created content.
