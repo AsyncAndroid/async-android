@@ -1,3 +1,5 @@
+![AsyncAndroid](https://pbs.twimg.com/profile_banners/1242270979058880512/1587496147/1500x500)
+
 # What Is AsyncAndroid
 
 AsyncAndroid is a community project to publish developer-created content.
@@ -65,7 +67,6 @@ https://twitter.com/asyncandroid
       - Your link will likely be private a few days after submission since that is the status that YouTube uses for scheduled but not-yet-published videos.
 
 ## AsyncAndroid Submission Checklist
-
 - [ ] Did you include the AsyncAndroid intro?
 - [ ] Do you have a custom thumbnail? (Generally, can just be your title screen from the intro)
 - [ ] Is your video in 1080p?
@@ -102,3 +103,4 @@ https://support.google.com/youtube/answer/72431?hl=en
 
 Video and audio formatting specifications | YouTube Help
 https://support.google.com/youtube/answer/4603579?hl=en
+
