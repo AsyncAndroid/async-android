@@ -42,7 +42,7 @@ https://twitter.com/asyncandroid
    - Admins: [Huyen Tue Dao](https://twitter.com/queencodemonkey), [Hugo Visser](https://twitter.com/queencodemonkey), [Mike Wolfson](https://twitter.com/mikewolfson), [Chiu-Ki Chan](https://twitter.com/chiuki)
    - Send a help request via the [AsyncAndroid Help Form](https://docs.google.com/forms/d/1pbCtSQq5lo0imPK_ESe9LfW7uSjhQ61Psjoh1si-hVg/edit)
 2. Add a proposal to the [AsyncAndroid Proposal Sign-up](https://docs.google.com/spreadsheets/d/1Z8hdmXvD3Y1KvEK_th8c22PLW45xp_IR6ivd6YoqZhU/edit#gid=0)
-   - This spreadsheet is for both creators and managers to see what other videos have been suggested and to avoid excessive overlap in video subjects.
+   - This spreadsheet is for both creators and admins to see what other videos have been suggested and to avoid excessive overlap in video subjects.
    - Please don't be discouraged if a another proposal is similar but not identical. When in doubt, please consult one of the admins.
    - Before you start creating content, please get confirmation from an admin that your proposal has been accepted.
 3. Wait for an approval from one of the admins for your proposal.
@@ -81,7 +81,7 @@ https://twitter.com/asyncandroid
 In [this Drive folder](https://drive.google.com/open?id=1u2FsgA7vtQTzx6mZiwN1Uu00TNE_1DQr) you can find:
 
 - the theme song created by [Hugo Visser](https://twitter.com/botteaap): a long and a short version (bumpercars.mp3, bumper cars-short.mp3)
-- a Keynote file for the intro created by [Rebecca Franks](https://twitter.com/riggaroo) and Jeroen Mols (async_android_bumper.key)
+- a Keynote file for the intro created by [Rebecca Franks](https://twitter.com/riggaroo) and [Jeroen Mols](https://twitter.com/molsjeroen) (async_android_bumper.key)
 - the AsyncAndroid logo: PNG and SVG formats, (icon_async_android.*)
 
 # How to Get Help
