@@ -6,13 +6,13 @@ AsyncAndroid is a community project to publish developer-created content.
 
 # Table of Contents
 
-- (Where to Find Us)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#where-to-find-us]
-- (How We Post Content)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-we-post-content]
-- (How to Contribute)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-to-contribute]
-  - (AsyncAndroid Submmission Checklist)https://github.com/AsyncAndroid/async-android/blob/master/README.md#asyncandroid-submission-checklist
-- (Where to Find Videeo Assets)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#where-to-find-video-assets]
-- (How to Get Help)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-to-get-help]
-- (Other Resources)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#other-resources]
+- [Where to Find Us](https://github.com/AsyncAndroid/async-android/blob/master/README.md#where-to-find-us])
+- [How We Post Content](https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-we-post-content)
+- [How to Contribute](https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-to-contribute)
+  - [AsyncAndroid Submmission Checklist](https://github.com/AsyncAndroid/async-android/blob/master/README.md#asyncandroid-submission-checklist)
+- [Where to Find Videeo Assets](https://github.com/AsyncAndroid/async-android/blob/master/README.md#where-to-find-video-assets)
+- [How to Get Help](https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-to-get-help)
+- [Other Resources](https://github.com/AsyncAndroid/async-android/blob/master/README.md#other-resources)
 
 # Where to Find Us
 
@@ -99,8 +99,7 @@ Please feel free always to reach out for help. If you need specific help with a 
 # Other Resources
 
 Add video thumbnails | YouTube Help
-https://support.google.com/youtube/answer/72431
+https://support.google.com/youtube/answer/72431?hl=en
 
 Video and audio formatting specifications | YouTube Help
-https://support.google.com/youtube/answer/4603579
-
+https://support.google.com/youtube/answer/4603579?hl=en
