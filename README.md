@@ -99,7 +99,7 @@ Please feel free always to reach out for help. If you need specific help with a 
 # Other Resources
 
 Add video thumbnails | YouTube Help
-https://support.google.com/youtube/answer/72431?hl=en
+https://support.google.com/youtube/answer/72431
 
 Video and audio formatting specifications | YouTube Help
-https://support.google.com/youtube/answer/4603579?hl=en
+https://support.google.com/youtube/answer/4603579
