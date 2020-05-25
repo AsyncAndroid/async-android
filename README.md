@@ -1,8 +1,16 @@
-![AsyncAndroid](https://pbs.twimg.com/profile_banners/1242270979058880512/1587496147/1500x500)
-
 # What Is AsyncAndroid
 
 AsyncAndroid is a community project to publish developer-created content.
+
+# Table of Contents
+
+- (Where to Find Us)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#where-to-find-us]
+- (How We Post Content)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-we-post-content]
+- (How to Contribute)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-to-contribute]
+  - (AsyncAndroid Submmission Checklist)https://github.com/AsyncAndroid/async-android/blob/master/README.md#asyncandroid-submission-checklist
+- (Where to Find Videeo Assets)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#where-to-find-video-assets]
+- (How to Get Help)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#how-to-get-help]
+- (Other Resources)[https://github.com/AsyncAndroid/async-android/blob/master/README.md#other-resources]
 
 # Where to Find Us
 
@@ -35,11 +43,12 @@ https://twitter.com/asyncandroid
    - This spreadsheet is for both creators and managers to see what other videos have been suggested and to avoid excessive overlap in video subjects.
    - Please don't be discouraged if a another proposal is similar but not identical. When in doubt, please consult one of the admins.
    - Before you start creating content, please get confirmation from an admin that your proposal has been accepted.
-3. Create your content.
+3. Wait for an approval from one of the admins for your proposal.
+4. Create your content.
    - You're free to use whatever format of video you like: a simple screen recording, mixed video and screen recording, voice and slides, voice and code, etc.
    - Please use the same level of professionalism and appropriateness that you would for a conference. Of course, feel free to inject your own personality and humor, but in terms of language, tone, and subject matter, please be mindful.
    - We do reserve the right to not publish submitted videos that are deemed inappropriate, low-quality, off-topic, or that do not reflect values of mutual respect, diversity of people and opinions, and a sharing/educational spirit.
-4. Submit your content.
+5. Submit your content.
    1. Please refer to the **Submission Checklist** below and make sure you have everything done before proceeding.
    2. Please submit your content using the [AsyncAndroid Video Submission](https://docs.google.com/forms/d/1shEt67Gwsi65G_xyqU3kDd3w7qAtoEnEUXtve-laSbo/edit) form.
    3. You will receive an email when your video has uploaded to the AsyncAndroid YouTube channel. The email will contain a link to your video.
